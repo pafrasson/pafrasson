@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### Technologies:
+### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,java,kotlin,spring&theme=light)](https://skillicons.dev)
 </div>
 
