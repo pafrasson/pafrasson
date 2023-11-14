@@ -17,7 +17,7 @@
 <br>
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,java,kotlin,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,typescript,javascript,java,kotlin,spring&theme=light)](https://skillicons.dev)
 </div>
 
 <br>
