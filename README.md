@@ -2,7 +2,7 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Frasson;I'm+from+Brazil;I'm+Graduating+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Frasson;I'm+from+Brazil;I'm+A+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
   
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=react,angular,typescript,javascript,java,kotlin,cs,dotnet,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,typescript,javascript,java,kotlin,cs,dotnet,spring&theme=light,servicenow)](https://skillicons.dev)
 </div>
 
 <br>
