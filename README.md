@@ -9,7 +9,7 @@
 <br>
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=lua,python,typescript,javascript,java,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,python,typescript,javascript)](https://skillicons.dev)
 </div>
 
 <br>
